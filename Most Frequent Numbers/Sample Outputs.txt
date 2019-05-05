@@ -1,0 +1,9 @@
+data2.txt output:
+Most Frequent Numbers:
+Number: 267, Frequency: 11
+
+data1.txt output:
+Most Frequent Numbers:
+Number: 28, Frequency: 26
+Number: 31, Frequency: 26
+Number: 35, Frequency: 26
